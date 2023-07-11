@@ -14,3 +14,5 @@ I'm sorry for the inconvenience from unfinished page.
 ## 1. Installation <a name="installation"></a>
 
 I developed this project using Python 3.11.3 and list libraries that I've been used are:
+
+## 2. Project Motivation <a name="motivation"></a>
