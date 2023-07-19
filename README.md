@@ -32,6 +32,10 @@ These libraries have been used for various purposes throughout the project, incl
 
 ## 3. File Descriptions <a name="desc"></a>
 
+- Jupyter Notebook that contain work related for this project was uploaded using `.ipynb` file.
+- If you would like to access the datasets to explore more analysis & improve model performance, you can find `BABA.csv` file.
+- To access all details about project workspace and datasets that I mentioned above, you can find `Stock_Market_Prediction.ipynb`.
+
 ## 4. Results <a name="results"></a>
 
 ## 5. Acknowledgments <a name="acknow"></a>
