@@ -30,6 +30,22 @@ These libraries have been used for various purposes throughout the project, incl
 
 ## 2. Project Motivation <a name="motivation"></a>
 
+In this stock price prediction project for Alibaba Group Holding Ltd (BABA). I aim to forecast the future stock prices based on historical data. By utilizing a LSTM (Long Short-Term Memory) neural network model, we can make predictions and evaluate the accuracy of the model's performance. Here are the key questions to address:
+
+- Q1: How accurately can we predict BABA stock prices using the available data?
+- Q2: How well does the predictive model perform in identifying upward or downward trends in stock prices?
+- Q3: Can we optimize the predictive model to improve its accuracy and reliability?
+
+To measure success of this project, I'll consider following criteria:
+
+- Clear answers to all questions listed related to BABA stock price prediction.
+- Development machine learning model that can predict BABA stock prices based on available data.
+- Improvement on predictive model to achieve better accuracy in predicting stock prices.
+- Evaluation model performance in identifying BABA stock prices.
+- Summarize model effectiveness and recommendations to improve the prediction accuracy.
+
+By obtain valuable insights and develop reliable predictive model, we'll aim to make informed decisions in forecasting stock prices.
+
 ## 3. File Descriptions <a name="desc"></a>
 
 - Jupyter Notebook that contain work related for this project was uploaded using `.ipynb` file.
