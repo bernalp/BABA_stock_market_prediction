@@ -56,3 +56,4 @@ By obtain valuable insights and develop reliable predictive model, we'll aim to 
 
 ## 5. Acknowledgments <a name="acknow"></a>
 
+- The Datasets used in this project's provided by [Steven Van Ingelgem](https://www.kaggle.com/datasets/svaningelgem/nyse-100-daily-stock-prices?select=BABA.csv).
