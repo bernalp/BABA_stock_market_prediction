@@ -64,6 +64,7 @@ The model's directional accuracy which measures the percentage of correctly pred
 
 **Q3: Can we optimize the predictive model to improve its accuracy and reliability?**
 ​
+
 Yes, we can optimize the predictive model to further improve its accuracy and reliability. There are several approaches to achieve this:
 ​
 - Fine-tuning hyperparameters: Tuning hyperparameters such as the number of LSTM layers, number of units per layer, dropout rate, and learning rate can lead to improved model performance.
@@ -75,6 +76,12 @@ Yes, we can optimize the predictive model to further improve its accuracy and re
 - Model ensembling: Combining predictions from multiple models or using ensemble techniques, such as stacking or bagging, can improve the overall predictive power.
 ​
 By continuously testing and improving these aspects, we can make the LSTM predictive model better at forecasting Baba stock prices.
+
+Directional Accuracy of about **60.24%** is quite good. However, it's important to remember that predicting stock prices involves complex variable. So, this is the reason I didn't improve further model. As I mentioned on Disclaimer:
+
+- <span style="color:darkred">This project doesn't offer investment advice or recommendations.</span>
+- <span style="color:darkred">The main goal is to use data-driven methods to provide insights and predictions.</span>
+- <span style="color:darkred">Please be aware that all investment decisions involve risk, do your own research, and consider your own financial situation and risk tolerance before making any investment choices.</span>
 
 ## 5. Acknowledgments <a name="acknow"></a>
 
