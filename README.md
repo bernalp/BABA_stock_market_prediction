@@ -54,6 +54,10 @@ By obtain valuable insights and develop reliable predictive model, we'll aim to 
 
 ## 4. Results <a name="results"></a>
 
+**Q1: How accurately can we predict Baba stock prices using the available data?**
+
+The LSTM predictive model displayed promising accuracy in predicting Baba stock prices. The evaluation metrics, such as Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and Mean Absolute Error (MAE), showed relatively low errors, indicating that the model's predictions were close to the actual stock prices. Additionally, the high Coefficient of Determination (R^2) suggested that approximately **92.48%** of the variance in the actual stock prices could be explained by the predicted prices. This indicates that the model performed well in capturing the underlying patterns in the stock price data.
+
 ## 5. Acknowledgments <a name="acknow"></a>
 
 - The Datasets used in this project's provided by [Steven Van Ingelgem](https://www.kaggle.com/datasets/svaningelgem/nyse-100-daily-stock-prices?select=BABA.csv).
