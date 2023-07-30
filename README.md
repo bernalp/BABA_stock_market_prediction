@@ -1,5 +1,11 @@
 # Alibaba Group Holding Ltd (BABA) | Stock Market Prediction
 
+### <span style="color:darkred">Disclaimer</span>
+
+- <span style="color:darkred">This project doesn't offer investment advice or recommendations.</span>
+- <span style="color:darkred">The main goal is to use data-driven methods to provide insights and predictions.</span>
+- <span style="color:darkred">Please be aware that all investment decisions involve risk, do your own research, and consider your own financial situation and risk tolerance before making any investment choices.</span>
+
 ## Table of Contents
 
 - **1.** [Installation](#installation)
