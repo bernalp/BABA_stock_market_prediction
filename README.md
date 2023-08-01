@@ -80,7 +80,7 @@ Yes, we can optimize the predictive model to further improve its accuracy and re
 ​
 By continuously testing and improving these aspects, we can make the LSTM predictive model better at forecasting Baba stock prices.
 
-Directional Accuracy of about **60.24%** is quite good. However, it's important to remember that predicting stock prices involves complex variable. So, this is the reason I didn't improve further model. As I mentioned on Disclaimer:
+Directional Accuracy of about **60.24%** is quite good. But, we should consider that predicting stock prices involves complex variable. So, this is my reason didn't improve further model. As I mentioned on Disclaimer:
 
 - <span style="color:darkred">This project doesn't offer investment advice or recommendations.</span>
 - <span style="color:darkred">The main goal is to use data-driven methods to provide insights and predictions.</span>
